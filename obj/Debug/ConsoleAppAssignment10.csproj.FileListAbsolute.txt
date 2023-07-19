@@ -1,0 +1,8 @@
+D:\assignemt exercise\assignment-10\ConsoleAppAssignment10\ConsoleAppAssignment10\bin\Debug\ConsoleAppAssignment10.exe.config
+D:\assignemt exercise\assignment-10\ConsoleAppAssignment10\ConsoleAppAssignment10\bin\Debug\ConsoleAppAssignment10.exe
+D:\assignemt exercise\assignment-10\ConsoleAppAssignment10\ConsoleAppAssignment10\bin\Debug\ConsoleAppAssignment10.pdb
+D:\assignemt exercise\assignment-10\ConsoleAppAssignment10\ConsoleAppAssignment10\obj\Debug\ConsoleAppAssignment10.csproj.AssemblyReference.cache
+D:\assignemt exercise\assignment-10\ConsoleAppAssignment10\ConsoleAppAssignment10\obj\Debug\ConsoleAppAssignment10.csproj.SuggestedBindingRedirects.cache
+D:\assignemt exercise\assignment-10\ConsoleAppAssignment10\ConsoleAppAssignment10\obj\Debug\ConsoleAppAssignment10.csproj.CoreCompileInputs.cache
+D:\assignemt exercise\assignment-10\ConsoleAppAssignment10\ConsoleAppAssignment10\obj\Debug\ConsoleAppAssignment10.exe
+D:\assignemt exercise\assignment-10\ConsoleAppAssignment10\ConsoleAppAssignment10\obj\Debug\ConsoleAppAssignment10.pdb
